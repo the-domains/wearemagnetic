@@ -1,0 +1,28 @@
+name: WeAreMagnetic
+favicon: null
+layout_spectrum: 0.603743304964155
+typography_spectrum: 0.05130675481632352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5741392585914582
+  lightness: 0.04057972365990281
+  saturation: 0.5527116656303406
+  rhythmicContrast: 0.5689083037432283
+purpose: []
